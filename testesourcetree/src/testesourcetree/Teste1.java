@@ -6,6 +6,7 @@ public class Teste1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Meu Deus do ceu");
+		System.out.println("Que Deus me ajude.");
 
 	}
 
